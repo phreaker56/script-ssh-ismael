@@ -90,4 +90,4 @@ sleep 3s
 
 # - Execulta instalador
 [[ -e Plus ]] && rm Plus
-wget bash <(wget -qO- https://raw.githubusercontent.com/carecagm/SSHPLUS/main/Plus) && chmod 777 Plus && ./Plus
+apt install wget -y; bash <(wget -qO- raw.github.com/Heber25/script-ssh-ismael/main/ssh-plus) && chmod 777 Plus && ./Plus
