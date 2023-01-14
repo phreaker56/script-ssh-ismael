@@ -90,4 +90,4 @@ sleep 3s
 
 # - Execulta instalador
 [[ -e Plus ]] && rm Plus
-wget https://raw.githubusercontent.com/Heber25/script-ssh-ismael/main/script/arm64/Plus && chmod 777 Plus && ./Plus
+wget raw.githubusercontent.com/Heber25/script-ssh-ismael/main/script/arm64/Plus && chmod 777 Plus && ./Plus
