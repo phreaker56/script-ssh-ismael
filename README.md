@@ -1,2 +1,2 @@
 # script-ssh-ismael
-Melhor script ssh
+Melhor script-ssh
